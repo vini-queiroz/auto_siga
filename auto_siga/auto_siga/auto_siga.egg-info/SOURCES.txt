@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+auto_siga/__init__.py
+auto_siga/__main__.py
+auto_siga/bot.py
+auto_siga.egg-info/PKG-INFO
+auto_siga.egg-info/SOURCES.txt
+auto_siga.egg-info/dependency_links.txt
+auto_siga.egg-info/requires.txt
+auto_siga.egg-info/top_level.txt
+auto_siga/resources/start.png
